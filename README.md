@@ -9,6 +9,10 @@
   * 디스코드로 만나서 각자 풀이한 방식 설명 + 외운 풀이 테스트보기 
   * 모르는 개념 있으면 정리해서 서로 설명해주기
   * 지치지 않고 꾸준하게 하기
+  
+### 파일 및 폴더 구조
+* sun_hee/22.11.00/문제1_문제명.py
+* haeun/22.11.00/문제1_문제명.py
 
 ### 📆 일정표
 |일정|내용|모임일자
@@ -23,7 +27,7 @@
 |12/5-12/9|그래프 이론||
 
 ### 👩🏻‍💻 문제
-|날짜|외울문제|풀기|풀기|풀기|
+|날짜|문제1(암기)|문제2|문제3|문제4|
 |:------:|:---:|:---:|:---:|:---:|
 |11/7-8|[체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862, "체육복 link")|[유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878, "유한소수 판별하기 link")|[문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921, "유한소수 판별하기 link")|[캐릭터의 좌표](https://school.programmers.co.kr/learn/courses/30/lessons/120861, "캐릭터의 좌표 link")|
 |11/9-10|-|-|-|-|
