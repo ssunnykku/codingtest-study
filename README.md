@@ -20,28 +20,24 @@
 
 - "날짜 이름 문제풀이" ex) "11/8 조하은 문제풀이"
 
-### 📆 일정표
+### 📆 이코테 일정표
 
 |    일정    |        내용         |   모임일자    |
 | :--------: | :-----------------: | :-----------: |
-|   11/7-8   |       그리디        | 11/8 오후 8시 |
-|  11/9-10   |        구현         |               |
-|  11/11-14  |       DFS/BFS       |               |
-|  11/15-16  |        정렬         |               |
-|  11/17-18  |      이진탐색       |               |
-|  11/21-25  | 다이나믹 프로그래밍 |               |
-| 11/28-12/2 |      최단경로       |               |
-| 12/5-12/9  |     그래프 이론     |               |
+|  23년 1월 예정 |       그리디        |  |
+|  -   |        구현         |               |
+|  -  |       DFS/BFS       |               |
+|  -  |        정렬         |               |
+|  -  |      이진탐색       |               |
+|  -  | 다이나믹 프로그래밍 |               |
+| -   |      최단경로       |               |
+| -  |     그래프 이론     |               |
 
 ### 👩🏻‍💻 문제
 
-|    날짜    |                                             문제1(암기)                                              |                                                      문제2                                                      |                                                      문제3                                                       |                                                  문제4                                                  |
-| :--------: | :--------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
-|   11/7-8   |       [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862, "체육복 link")       | [유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878, "유한소수 판별하기 link") |    [문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921, "유한소수 판별하기 link")     | [캐릭터의 좌표](https://school.programmers.co.kr/learn/courses/30/lessons/120861, "캐릭터의 좌표 link") |
-|  11/9-10   | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491, "최소직사각형 link") |          [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840, "모의고사 link")           | [피자 나눠 먹기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120815, "피자 나눠 먹기(2) link") | [주사위의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120845, "주사위의 개수 link") |
-|  12/21-30  |[햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502, "햄버거 만들기 link")|[옹알이(2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499, "옹알이(2) link") |[콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267, "콜라문제 link")|[세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910, "세균 증식 link")|
-|  11/15-16  |                                                  -                                                   |                                                        -                                                        |                                                        -                                                         |                                                    -                                                    |
-|  11/17-18  |                                                  -                                                   |                                                        -                                                        |                                                        -                                                         |                                                    -                                                    |
-|  11/21-25  |                                                  -                                                   |                                                        -                                                        |                                                        -                                                         |                                                    -                                                    |
-| 11/28-12/2 |                                                  -                                                   |                                                        -                                                        |                                                        -                                                         |                                                    -                                                    |
-| 12/5-12/9  |                                                  -                                                   |                                                        -                                                        |                                                        -                                                         |                                                    -                                                    |
+| 날짜 | 문제1 | 문제2 | 문제3 | 문제4 | 문제5 | 문제6 |
+| :------------: | :-----------: | :----------: | :------------: | :------------: |:----------: |:-----------: |
+|   11/7-8   |       [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862, "체육복 link")       | [유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878, "유한소수 판별하기 link") |    [문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921, "문자열 밀기 link")     | [캐릭터의 좌표](https://school.programmers.co.kr/learn/courses/30/lessons/120861, "캐릭터의 좌표 link") |-                                                    |-                                                    |
+|   11/9-10   |       [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491, "최소직사각형 link")       | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840, "모의고사 link") |    [피자 나눠 먹기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120815, "피자 나눠 먹기(2) link")     | [주사위의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120845, "주사위의 개수 link") |-                                                    |-                                                    |
+|  12/21-30  |    [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502, "햄버거 만들기 link")|[옹알이(2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499, "옹알이(2) link") |[콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267, "콜라문제 link")|[세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910, "세균 증식 link")|-                                                    |-                                                    |
+
