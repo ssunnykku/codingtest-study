@@ -44,6 +44,15 @@
 
 - 2023년
 
-| 날짜 | 문제1 | 문제2 | 문제3 | 문제4 | 문제5 | 문제6 |
+| 날짜 | 문제1 | 문제2 | 문제3 | 문제4 | 문제5 | &nbsp;&nbsp;&nbsp;&nbsp;문제6&nbsp;&nbsp;&nbsp;&nbsp; |
 | :---: | :---: | :---: | :---: | :---: |:---: |:---: |
-| 1/2-6 | [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484, "로또의 최고 순위와 최저 순위 link")|[부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612, "부족한 금액 계산하기 link")| [머쓱이보다 키 큰 사람](https://school.programmers.co.kr/learn/courses/30/lessons/120585, "머쓱이보다 키 큰 사람 link")|[없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051, "없는 숫자 더하기 link")|[이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930, "이상한 문자 만들기 link")|[과일장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808, "과일장수 link")|
+| 1/2-6 | [로또의 최고 순위와<br>최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484, "로또의 최고 순위와 최저 순위 link")|[부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612, "부족한 금액 계산하기 link")| [머쓱이보다<br>키 큰 사람](https://school.programmers.co.kr/learn/courses/30/lessons/120585, "머쓱이보다 키 큰 사람 link")|[없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051, "없는 숫자 더하기 link")|[이상한 문자<br>만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930, "이상한 문자 만들기 link")|[과일장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808, "과일장수 link")|
+
+<!-- |날짜|문제번호|링크|
+| :---: | :---: | :---: |
+| 1/2(월)|문제1|[로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484, "로또의 최고 순위와 최저 순위 link")|
+| 1/2(월)|문제2|[부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612, "부족한 금액 계산하기 link")|
+| 1/4(수)|문제3|[머쓱이보다 키 큰 사람](https://school.programmers.co.kr/learn/courses/30/lessons/120585, "머쓱이보다 키 큰 사람 link")|
+| 1/4(수)|문제4|[없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051, "없는 숫자 더하기 link")|
+| 1/6(금)|문제5|[이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930, "이상한 문자 만들기 link")|
+| 1/6(금)|문제6|[과일장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808, "과일장수 link")| -->
