@@ -40,19 +40,13 @@
 | :---: | :---: | :---: | :---: | :---: |
 | 11/7-8 |       [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862, "체육복 link")       | [유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878, "유한소수 판별하기 link") |    [문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921, "문자열 밀기 link")     | [캐릭터의 좌표](https://school.programmers.co.kr/learn/courses/30/lessons/120861, "캐릭터의 좌표 link") |
 | 11/9-10 |       [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491, "최소직사각형 link")       | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840, "모의고사 link") |    [피자 나눠 먹기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120815, "피자 나눠 먹기(2) link")     | [주사위의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120845, "주사위의 개수 link") |
-| 12/21-30 |    [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502, "햄버거 만들기 link")|[옹알이(2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499, "옹알이(2) link") |[콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267, "콜라문제 link")|[세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910, "세균 증식 link")|
+| 12/21-27 |    [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502, "햄버거 만들기 link")|[옹알이(2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499, "옹알이(2) link") |[콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267, "콜라문제 link")||
+| 12/28-29 |    [세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910, "세균 증식 link")| [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484, "로또의 최고 순위와 최저 순위 link") |[부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612, "부족한 금액 계산하기 link")|[머쓱이보다 키 큰 사람](https://school.programmers.co.kr/learn/courses/30/lessons/120585, "머쓱이보다 키 큰 사람 link")|
+
 
 - 2023년
 
-| 날짜 | 문제1 | 문제2 | 문제3 | 문제4 | 문제5 | &nbsp;&nbsp;&nbsp;&nbsp;문제6&nbsp;&nbsp;&nbsp;&nbsp; |
+| 날짜 | 문제1 |  &nbsp;&nbsp;&nbsp;문제2 &nbsp;&nbsp;&nbsp; | 문제3 | 문제4 | 문제5 | &nbsp;&nbsp;&nbsp;문제6&nbsp;&nbsp;&nbsp; |
 | :---: | :---: | :---: | :---: | :---: |:---: |:---: |
-| 1/2-6 | [로또의 최고 순위와<br>최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484, "로또의 최고 순위와 최저 순위 link")|[부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612, "부족한 금액 계산하기 link")| [머쓱이보다<br>키 큰 사람](https://school.programmers.co.kr/learn/courses/30/lessons/120585, "머쓱이보다 키 큰 사람 link")|[없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051, "없는 숫자 더하기 link")|[이상한 문자<br>만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930, "이상한 문자 만들기 link")|[과일장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808, "과일장수 link")|
+| 1/2-6 |[같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906, "같은 숫자는 싫어 link")|[평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875, "평행 link")|[가장 가까운<br>같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086, "가장 가까운 같은 글자 link")|[없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051, "없는 숫자 더하기 link")|[이상한 문자<br>만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930, "이상한 문자 만들기 link")|[과일장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808, "과일장수 link")|
 
-<!-- |날짜|문제번호|링크|
-| :---: | :---: | :---: |
-| 1/2(월)|문제1|[로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484, "로또의 최고 순위와 최저 순위 link")|
-| 1/2(월)|문제2|[부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612, "부족한 금액 계산하기 link")|
-| 1/4(수)|문제3|[머쓱이보다 키 큰 사람](https://school.programmers.co.kr/learn/courses/30/lessons/120585, "머쓱이보다 키 큰 사람 link")|
-| 1/4(수)|문제4|[없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051, "없는 숫자 더하기 link")|
-| 1/6(금)|문제5|[이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930, "이상한 문자 만들기 link")|
-| 1/6(금)|문제6|[과일장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808, "과일장수 link")| -->
