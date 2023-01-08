@@ -25,7 +25,7 @@
 |    일정(검사일)    |        내용         |   담당    |
 | :--------: | :-----------------: | :-----------: |
 |  23. 1/6 |       그리디        |   선희   |
-|  23. 1/13 |        구현         |   하은  |
+|  23. 1/13 |        구현         |   선희  |
 |  23. 1/13 |       DFS/BFS       |    선희     |
 |  -  |        정렬         |         |
 |  -  |      이진탐색       |               |
@@ -46,7 +46,9 @@
 
 - 2023년
 
-| 날짜 | 문제1 |  &nbsp;&nbsp;&nbsp;문제2 &nbsp;&nbsp;&nbsp; | 문제3 | 문제4 | 문제5 | &nbsp;&nbsp;&nbsp;문제6&nbsp;&nbsp;&nbsp; |
+| 날짜 | 문제1 | 문제2 | 문제3 | 문제4 | 문제5 | 문제6 |
 | :---: | :---: | :---: | :---: | :---: |:---: |:---: |
 | 1/2-6 |[같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906, "같은 숫자는 싫어 link")|[평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875, "평행 link")|[가장 가까운<br>같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086, "가장 가까운 같은 글자 link")|[없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051, "없는 숫자 더하기 link")|[이상한 문자<br>만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930, "이상한 문자 만들기 link")|[과일장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808, "과일장수 link")|
+| 1/9-13 |[콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943, "콜라츠 추측 link")|[K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748, "K번째수 link")|[실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889, "실패율 link")|[3009번: 네 번째 점](https://www.acmicpc.net/problem/3009, "3009번: 네 번째 점 link")|[11047번: 동전0](https://www.acmicpc.net/problem/11047, "11047번: 동전0 link")|[11497번: 통나무 건너뛰기](https://www.acmicpc.net/problem/11497, "11497번: 통나무 건너뛰기 link")|
+
 
