@@ -39,7 +39,7 @@ print(test1)
 # [('apple', -3), ('banana', 3), ('carrot', 1)] 오름차순으로 반환해 주지만 이렇게 리스트를 반환한다.
 print(f'sorted(test.item())       : {test1}')
 # 다시 딕셔너리로
-print(f'dict(sorted(test.item()       : {dict(test1)}')
+print(f'dict(sorted(test.item())       : {dict(test1)}')
 
 # 키 값만을 빼서 정렬하기
 test2 = sorted(test)
@@ -65,4 +65,9 @@ print(test4)
 # 방법2
 
 test5 = sorted(test.items(), key=lambda x: x[1])
-print(test5)
+
+#################value만 추출해 리스트로#################
+
+a = {'name': 'pey', 'phone': '010-9999-1234', 'birth': '1118'}
+
+print(list(a.values()))
