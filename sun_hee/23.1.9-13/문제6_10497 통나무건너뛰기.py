@@ -29,17 +29,17 @@ for i in range(T):
 
 # 다른사람 풀이 1
 # 메모리 30220kb 시간 2220ms
-n = int(input())
+# n = int(input())
 
-for i in range(n):
-    m = int(input())
-    arr = sorted(list(map(int, input().split())))
-    max = 0
-    for j in range(2, len(arr)):
-        if arr[j]-arr[j-2] > max:
-            max = arr[j] - arr[j-2]
+# for i in range(n):
+#     m = int(input())
+#     arr = sorted(list(map(int, input().split())))
+#     max = 0
+#     for j in range(2, len(arr)):
+#         if arr[j]-arr[j-2] > max:
+#             max = arr[j] - arr[j-2]
 
-    print(max)
+#     print(max)
 
 
 # 다른사람 풀이2
