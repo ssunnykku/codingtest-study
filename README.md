@@ -2,7 +2,7 @@
 
 ### 🙋‍♀️ About study
 
-- 책: 이것이 코딩테스트다
+- 책: 이것이 취업을 위한 코딩 테스트다 with 파이썬
 - 목적 : 코딩테스트에 자주 나오는 유형 빠르게 3바퀴 돌기
 - 규칙
   - 한 유형당 4시간씩 투자
@@ -29,8 +29,8 @@
 |  23. 1/20 |       DFS/BFS       |    선희     |
 |  23. 2/13  |        정렬         |         |
 |  23. 2/16  |      이진탐색       |               |
-|  -  | 다이나믹 프로그래밍 |               |
-| -   |      최단경로       |               |
+|  23. 2/20  | 다이나믹 프로그래밍 |               |
+| 23. 2/23   |      최단경로       |               |
 | -  |     그래프 이론     |               |
 
 ### 👩🏻‍💻 문제
@@ -51,5 +51,6 @@
 | 1/2-6 |[같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906, "같은 숫자는 싫어 link")|[평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875, "평행 link")|[가장 가까운<br>같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086, "가장 가까운 같은 글자 link")|[없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051, "없는 숫자 더하기 link")|[이상한 문자<br>만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930, "이상한 문자 만들기 link")|[과일장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808, "과일장수 link")|
 | 1/9-13 |[콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943, "콜라츠 추측 link")|[K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748, "K번째수 link")|[실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889, "실패율 link")|[3009번: 네 번째 점](https://www.acmicpc.net/problem/3009, "3009번: 네 번째 점 link")|[11047번: 동전0](https://www.acmicpc.net/problem/11047, "11047번: 동전0 link")|[11497번: 통나무 건너뛰기](https://www.acmicpc.net/problem/11497, "11497번: 통나무 건너뛰기 link")|
 | 1/16-20 |[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666, "성격 유형 검사하기 link")|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909, "올바른 괄호 link")|[상위 n개 레코드](https://school.programmers.co.kr/learn/courses/30/lessons/59405, "상위 n개 레코드 link")|[타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165, "타겟 넘버 link")|[고양이와 개는 몇 마리 있을까](https://school.programmers.co.kr/learn/courses/30/lessons/59040, "고양이와 개는 몇 마리 있을까 link")|[최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941, "최솟값 만들기 link")|
+
 
 
