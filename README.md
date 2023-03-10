@@ -2,7 +2,7 @@
 
 ### 🙋‍♀️ About study
 
-- 책: 이것이 코딩테스트다
+- 책: 이것이 취업을 위한 코딩 테스트다 with 파이썬
 - 목적 : 코딩테스트에 자주 나오는 유형 빠르게 3바퀴 돌기
 - 규칙
   - 한 유형당 4시간씩 투자
@@ -29,8 +29,8 @@
 |  23. 1/20 |       DFS/BFS       |    선희     |
 |  23. 2/13  |        정렬         |         |
 |  23. 2/16  |      이진탐색       |               |
-|  -  | 다이나믹 프로그래밍 |               |
-| -   |      최단경로       |               |
+|  23. 2/20  | 다이나믹 프로그래밍 |               |
+| 23. 2/23   |      최단경로       |               |
 | -  |     그래프 이론     |               |
 
 ### 👩🏻‍💻 문제
@@ -53,4 +53,5 @@
 | 1/16-20 |[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666, "성격 유형 검사하기 link")|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909, "올바른 괄호 link")|[상위 n개 레코드](https://school.programmers.co.kr/learn/courses/30/lessons/59405, "상위 n개 레코드 link")|[타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165, "타겟 넘버 link")|[고양이와 개는 몇 마리 있을까](https://school.programmers.co.kr/learn/courses/30/lessons/59040, "고양이와 개는 몇 마리 있을까 link")|[최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941, "최솟값 만들기 link")|
 | 2/27-3/3 |이코테_그리디_1. 모험가 길드|이코테_그리디_2. 곱하기 혹은 더하기|이코테_그리디_5. 볼링골 고르기|이코테_그리디_6. 무지의 먹방 라이브|이코테_구현_7. 럭키 스트레이트|이코테_구현_8. 문자열 재정열|
 | 3/6-3/10 |이코테_구현_9. 문자열 압축|이코테_DFS/BFS_15. 특정 거리의 도시 찾기|이코테_DFS/BFS_18. 괄호 변환|___|____|____|
+
 
