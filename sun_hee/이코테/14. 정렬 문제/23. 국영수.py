@@ -13,6 +13,8 @@
 # # print(students)
 # sort_result = sorted(students, key=lambda x: (-x[1], +x[2], +x[0]))
 
+# str에는 +,- 부호 처리 할 수 없어서 에러
+
 # for x in sort_result:
 #     print(x[0])
 
