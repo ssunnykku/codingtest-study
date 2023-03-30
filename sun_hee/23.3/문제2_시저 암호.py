@@ -34,3 +34,5 @@ if index >= 0:
     print(''.join(array[index+n:len(s)+n]))
 else:
     print(''.join(array[index-n:-len(s)-n]))
+
+    # 문제점 : 공백 고려 안함, 대소문자 고려 안함
