@@ -3,7 +3,8 @@
 # lambda: 익명함수
 # 장점: 코드의 간결함, 메모리의 절약
 # 재사용할 필요 없을때. 물론 람다함수도 객체이므로 재사용이 필요하다면 정의와 동시에 변수에 담으면 됨
-
+# def test(x):
+#     return x+1
 # 1
 test = (lambda x: x + 1)(3)
 print(test)
@@ -28,4 +29,4 @@ def my_key(string):
 
 
 # 안되는데..?
-print(sorted(target, key=lambda x: len(x.strip())))
+# print(sorted(target, key=lambda x: len(x.strip())))
