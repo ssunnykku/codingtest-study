@@ -1,4 +1,4 @@
-# 1시까지
+# https://school.programmers.co.kr/learn/courses/30/lessons/176963
 name = ["kali", "mari", "don"]
 yearning = [11, 1, 55]
 photo = [["kali", "mari", "don"], ["pony", "tom", "teddy"], ["con", "mona", "don"]]
