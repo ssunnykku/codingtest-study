@@ -1,6 +1,6 @@
 # https://school.programmers.co.kr/learn/courses/30/lessons/12980
 
-n = 6
+n = 5
 
 def solution(n):
     ans = 0
